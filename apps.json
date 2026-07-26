@@ -8,5 +8,10 @@
         "name": "Aurux Tweaker",
         "desc": "My first tweaker for ColdOS",
         "downloadUrl": "https://github.com/Nothing-Byte228/webgallery/blob/b7545d3102957db328501856b12d508ce0f7afe9/apps/auruxtweaker-build-0005.cuapp"
+    },
+    {
+        "name": "Trophy",
+        "desc": "Трофей для VentraKat",
+        "downloadUrl": ""
     }
 ]
