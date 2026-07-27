@@ -15,13 +15,13 @@
         "downloadUrl": ""
     },
     {
-        "name": "Astra",
-        "desc": "Приложение для ???",
+        "name": "TestApp",
+        "desc": "Приложение для теста",
         "downloadUrl": ""
     },
     {
-        "name": "TestApp",
-        "desc": "Приложение для теста",
+        "name": "Astra",
+        "desc": "Приложение для ???",
         "downloadUrl": ""
     }
 ]
