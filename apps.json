@@ -18,5 +18,10 @@
         "name": "Astra",
         "desc": "Приложение для ???",
         "downloadUrl": ""
+    },
+    {
+        "name": "TestApp",
+        "desc": "Приложение для теста",
+        "downloadUrl": ""
     }
 ]
