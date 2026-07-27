@@ -13,5 +13,10 @@
         "name": "Trophy",
         "desc": "Трофей для VentraKat",
         "downloadUrl": ""
+    },
+    {
+        "name": "Astra",
+        "desc": "Приложение для ???",
+        "downloadUrl": ""
     }
 ]
