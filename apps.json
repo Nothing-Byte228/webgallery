@@ -2,12 +2,12 @@
     {
         "name": "Tapok",
         "desc": "Кушать тапок",
-        "downloadUrl": "https://github.com/Nothing-Byte228/webgallery/blob/b7545d3102957db328501856b12d508ce0f7afe9/apps/tapok-app.cuapp"
+        "downloadUrl": "https://raw.githubusercontent.com/Nothing-Byte228/webgallery/refs/heads/main/apps/tapok-app.cuapp"
     },
     {
         "name": "Aurux Tweaker",
         "desc": "My first tweaker for ColdOS",
-        "downloadUrl": "https://github.com/Nothing-Byte228/webgallery/blob/b7545d3102957db328501856b12d508ce0f7afe9/apps/auruxtweaker-build-0005.cuapp"
+        "downloadUrl": "https://raw.githubusercontent.com/Nothing-Byte228/webgallery/refs/heads/main/apps/auruxtweaker-build-0005.cuapp"
     },
     {
         "name": "Trophy",
