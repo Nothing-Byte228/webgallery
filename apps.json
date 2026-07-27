@@ -2,26 +2,31 @@
     {
         "name": "Tapok",
         "desc": "Кушать тапок",
-        "downloadUrl": "https://raw.githubusercontent.com/Nothing-Byte228/webgallery/refs/heads/main/apps/tapok-app.cuapp"
+        "downloadUrl": "https://raw.githubusercontent.com/Nothing-Byte228/webgallery/refs/heads/main/apps/tapok-app.cuapp",
+        "version": "1.0.0"
     },
     {
         "name": "Aurux Tweaker",
         "desc": "My first tweaker for ColdOS",
-        "downloadUrl": "https://raw.githubusercontent.com/Nothing-Byte228/webgallery/refs/heads/main/apps/auruxtweaker-build-0005.cuapp"
+        "downloadUrl": "https://raw.githubusercontent.com/Nothing-Byte228/webgallery/refs/heads/main/apps/auruxtweaker-build-0005.cuapp",
+        "version": "1.1.0"
     },
     {
         "name": "Trophy",
         "desc": "Трофей для VentraKat",
-        "downloadUrl": ""
+        "downloadUrl": "",
+        "version": "1.0.0"
     },
     {
         "name": "TestApp",
         "desc": "Приложение для теста",
-        "downloadUrl": ""
+        "downloadUrl": "",
+        "version": "1.0.0"
     },
     {
         "name": "Astra",
         "desc": "Приложение для ???",
-        "downloadUrl": ""
+        "downloadUrl": "",
+        "version": "1.0.0"
     }
 ]
