@@ -10,11 +10,5 @@
         "desc": "My first tweaker for ColdOS",
         "downloadUrl": "https://raw.githubusercontent.com/Nothing-Byte228/webgallery/refs/heads/main/apps/auruxtweaker-build-0005.cuapp",
         "version": "1.0.5"
-    },
-    {
-        "name": "Trophy",
-        "desc": "Трофей для VentraKat",
-        "downloadUrl": "https://raw.githubusercontent.com/Nothing-Byte228/webgallery/refs/heads/main/apps/trophy.cuapp",
-        "version": "1.0.0"
     }
 ]
